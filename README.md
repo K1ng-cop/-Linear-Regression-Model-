@@ -1,8 +1,3 @@
-Absolutely, The Data Alchemist 🧪📊
-Here’s a clean, professional **README.md** you can drop straight into your project. It explains what you did without overclaiming magic or causation.
-
----
-
 ## 📘 Project Title
 
 **Does Studying With AI Improve Academic Marks? A Linear Regression Analysis**
