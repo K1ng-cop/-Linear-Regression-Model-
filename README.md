@@ -54,7 +54,7 @@ Other factors such as study habits, prior knowledge, motivation, and access to r
 * Pandas
 * NumPy
 * scikit-learn
-* Jupyter Notebook / Google Colab
+* Google Colab
 
 ## 🚀 Future Improvements
 
